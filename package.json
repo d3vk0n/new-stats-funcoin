@@ -39,7 +39,7 @@
     "d3": "3.5.17",
     "prom-client": "11.2.1",
     "express": "4.16.4",
-    "ajv": "6.10.0",
+    "ajv": "6.12.3",
     "nodemailer": "6.0.0",
     "nodemailer-mailgun-transport": "1.4.0",
     "request": "2.88.0",
