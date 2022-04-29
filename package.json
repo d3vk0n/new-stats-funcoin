@@ -20,7 +20,7 @@
     "@babel/polyfill": "7.4.0",
     "dir-require": "1.0.4",
     "lodash": "4.17.15",
-    "async": "2.6.2",
+    "async": "2.6.4",
     "ws": "6.2.1",
     "sha1": "1.1.1",
     "meow": "5.0.0",
